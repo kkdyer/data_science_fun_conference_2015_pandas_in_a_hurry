@@ -1,0 +1,124 @@
+
+Begin selection of features
+selecting feature  0
+('HESC3', 0.90027083807932773) found in 165315ms
+selecting feature  1
+('HETS8CO', 0.91616675525856173) found in 89984ms
+selecting feature  2
+('HES9', 0.92743058192219097) found in 98288ms
+selecting feature  3
+('HETSP3O', 0.93418887792036853) found in 92312ms
+selecting feature  4
+('HETS8O', 0.93947907965676969) found in 94697ms
+selecting feature  5
+('GTCBSA', 0.94236464424026123) found in 113793ms
+selecting feature  6
+('PEHSPNON', 0.94502240109347713) found in 131826ms
+selecting feature  7
+('HETS6O', 0.94600956792467161) found in 114447ms
+selecting feature  8
+('HETS8OU', 0.94732579036626419) found in 139561ms
+selecting feature  9
+('HWHHWTLN', 0.94838889310755059) found in 127907ms
+selecting feature  10
+('GESTCEN', 0.95145164148125649) found in 131600ms
+selecting feature  11
+('HESC2', 0.95246412028248162) found in 142136ms
+selecting feature  12
+('PUBUS1', 0.95322347938340046) found in 163166ms
+selecting feature  13
+('HETS3O', 0.95324879135343099) found in 171801ms
+selecting feature  14
+('HETS2O', 0.95413471030450303) found in 157921ms
+selecting feature  15
+('HES1C', 0.95517250107575868) found in 178270ms
+selecting feature  16
+('PULKPS2', 0.95615966790695317) found in 196165ms
+selecting feature  17
+('HHSUPWGT', 0.95646341154732073) found in 202134ms
+selecting feature  18
+('HES8B', 0.9568430910977801) found in 218167ms
+selecting feature  19
+('PTERN', 0.95739995443845394) found in 230209ms
+selecting feature  20
+('HES1B', 0.9573746424684233) found in 203720ms
+selecting feature  21
+('PENLFJH', 0.95780494595894394) found in 240540ms
+selecting feature  22
+('PUDIS2', 0.95795681777912778) found in 204620ms
+selecting feature  23
+('PEAFWHN1', 0.9577796339889133) found in 206601ms
+selecting feature  24
+('PULKAVR', 0.9575771382286683) found in 212198ms
+selecting feature  25
+('PEDISOUT', 0.95755182625863766) found in 206684ms
+selecting feature  26
+('PUBUS2OT', 0.95785556989900522) found in 206383ms
+selecting feature  27
+('PUDWCK2', 0.9575771382286683) found in 164633ms
+selecting feature  28
+('PELAYAVL', 0.95783025792897458) found in 151020ms
+selecting feature  29
+('PRCITFLG', 0.95762776216872958) found in 152431ms
+selecting feature  30
+('PULKM5', 0.9577796339889133) found in 153377ms
+selecting feature  31
+('PULINENO', 0.95750120231857649) found in 154603ms
+selecting feature  32
+('PULKPS4', 0.9575771382286683) found in 156894ms
+selecting feature  33
+('PELKFTO', 0.9575771382286683) found in 157433ms
+selecting feature  34
+('PUIO2MFG', 0.95772901004885214) found in 159491ms
+selecting feature  35
+('PEERNHRY', 0.95765307413876022) found in 160701ms
+selecting feature  36
+('PUJHDP1O', 0.95755182625863766) found in 161998ms
+selecting feature  37
+('PULKDK2', 0.95765307413876022) found in 163276ms
+selecting feature  38
+('PEHRAVL', 0.9575771382286683) found in 164189ms
+selecting feature  39
+('PULAYCK1', 0.95767838610879086) found in 164340ms
+selecting feature  40
+('PEDWWK', 0.95747589034854585) found in 164699ms
+selecting feature  41
+('PUSLFPRX', 0.95707089882805574) found in 166218ms
+selecting feature  42
+('PEMS123', 0.95712152276811702) found in 167393ms
+selecting feature  43
+('GEREG', 0.95702027488799457) found in 168144ms
+selecting feature  44
+('HESC1', 0.95719745867820893) found in 171232ms
+selecting feature  45
+('PUJHCK2', 0.95719745867820893) found in 172798ms
+selecting feature  46
+('HES1A', 0.9571721467081783) found in 173793ms
+selecting feature  47
+('PEDW4WK', 0.95719745867820893) found in 175339ms
+selecting feature  48
+('PEDWAVL', 0.95722277064823957) found in 176630ms
+selecting feature  49
+('GTCO', 0.95734933049839266) found in 178035ms
+selecting feature  50
+('PULKPS3', 0.95739995443845394) found in 181446ms
+selecting feature  51
+('PEDWLKWK', 0.95734933049839266) found in 182362ms
+selecting feature  52
+('PEDWWNTO', 0.95732401852836202) found in 182448ms
+selecting feature  53
+('PUJHCK1', 0.95712152276811702) found in 184045ms
+selecting feature  54
+('PULKPS1', 0.95699496291796393) found in 185225ms
+selecting feature  55
+('PURETOT', 0.95722277064823957) found in 189631ms
+selecting feature  56
+('PULK', 0.95724808261827021) found in 190446ms
+selecting feature  57
+('PEDWAVR', 0.95704558685802521) found in 192136ms
+selecting feature  58
+('PEERNUOT', 0.9571721467081783) found in 193177ms
+selecting feature  59
+('PEJHWANT', 0.95724808261827021) found in 193718ms
+('PEJHWANT', 0.95724808261827021)
+['HRHHID', 'HRHHID2', 'PERRP', 'PRTAGE', 'PEMARITL', 'PESEX', 'PRMARSTA', 'OCCURNUM', 'HESC3', 'HETS8CO', 'HES9', 'HETSP3O', 'HETS8O', 'GTCBSA', 'PEHSPNON', 'HETS6O', 'HETS8OU', 'HWHHWTLN', 'GESTCEN', 'HESC2', 'PUBUS1', 'HETS3O', 'HETS2O', 'HES1C', 'PULKPS2', 'HHSUPWGT', 'HES8B', 'PTERN', 'HES1B', 'PENLFJH', 'PUDIS2', 'PEAFWHN1', 'PULKAVR', 'PEDISOUT', 'PUBUS2OT', 'PUDWCK2', 'PELAYAVL', 'PRCITFLG', 'PULKM5', 'PULINENO', 'PULKPS4', 'PELKFTO', 'PUIO2MFG', 'PEERNHRY', 'PUJHDP1O', 'PULKDK2', 'PEHRAVL', 'PULAYCK1', 'PEDWWK', 'PUSLFPRX', 'PEMS123', 'GEREG', 'HESC1', 'PUJHCK2', 'HES1A', 'PEDW4WK', 'PEDWAVL', 'GTCO', 'PULKPS3', 'PEDWLKWK', 'PEDWWNTO', 'PUJHCK1', 'PULKPS1', 'PURETOT', 'PULK', 'PEDWAVR', 'PEERNUOT', 'PEJHWANT']

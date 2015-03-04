@@ -1,0 +1,217 @@
+Begin selection of features
+selecting feature  0
+('PWSSWGT', 0.8817116658) found in 606747ms
+selecting feature  1
+('HEHOUSUT', 0.8817116658) found in 580108ms
+selecting feature  2
+('HETENURE', 0.8817116658) found in 574793ms
+selecting feature  3
+('HRHTYPE', 0.8817116658) found in 566336ms
+selecting feature  4
+('HRNUMHOU', 0.8817116658) found in 568884ms
+selecting feature  5
+('HUBUS', 0.8817116658) found in 567110ms
+selecting feature  6
+('HUBUSL1', 0.8817116658) found in 565650ms
+selecting feature  7
+('HUBUSL2', 0.8817116658) found in 565004ms
+selecting feature  8
+('HUBUSL3', 0.8817116658) found in 569121ms
+selecting feature  9
+('HUBUSL4', 0.8817116658) found in 567707ms
+selecting feature  10
+('HUTYPB', 0.8817116658) found in 565897ms
+selecting feature  11
+('PEAFNOW', 0.8817116658) found in 565380ms
+selecting feature  12
+('PEEDUCA', 0.8817116658) found in 572206ms
+selecting feature  13
+('PRCITFLG', 0.8817116658) found in 568184ms
+selecting feature  14
+('PRCITSHP', 0.8817116658) found in 566638ms
+selecting feature  15
+('PRFAMNUM', 0.8817116658) found in 563118ms
+selecting feature  16
+('PRPERTYP', 0.8817116658) found in 564388ms
+selecting feature  17
+('PRTFAGE', 0.8817116658) found in 563370ms
+selecting feature  18
+('PUCHINHH', 0.8817116658) found in 564063ms
+selecting feature  19
+('PULINENO', 0.8817116658) found in 561134ms
+selecting feature  20
+('PEABSPDO', 0.8817116658) found in 564745ms
+selecting feature  21
+('PEABSRSN', 0.8817116658) found in 567839ms
+selecting feature  22
+('PEDW4WK', 0.8817116658) found in 571248ms
+selecting feature  23
+('PEDWAVL', 0.8817116658) found in 568342ms
+selecting feature  24
+('PEDWAVR', 0.8817116658) found in 571844ms
+selecting feature  25
+('PEDWLKO', 0.8817116658) found in 575560ms
+selecting feature  26
+('PEDWLKWK', 0.8817116658) found in 572576ms
+selecting feature  27
+('PEDWRSN', 0.8817116658) found in 569161ms
+selecting feature  28
+('PEDWWK', 0.8817116658) found in 572417ms
+selecting feature  29
+('PEDWWNTO', 0.8817116658) found in 574615ms
+selecting feature  30
+('PEHRACT1', 0.8817116658) found in 574501ms
+selecting feature  31
+('PEHRACT2', 0.8817116658) found in 575022ms
+selecting feature  32
+
+
+
+2nd run
+-----------------------------------------
+
+Begin selection of features
+selecting feature  0
+('PREDUCA5', 0.8817116658) found in 610432ms
+selecting feature  1
+('PREDUCA4', 0.8817116658) found in 614451ms
+selecting feature  2
+('PRMLR', 0.8817116658) found in 947195ms
+selecting feature  3
+('GTCO', 0.8817116658) found in 1088358ms
+selecting feature  4
+('GESTFIPS', 0.8817116658) found in 1095586ms
+selecting feature  5
+('HRPOOR', 0.8817116658) found in 1097785ms
+selecting feature  6
+('HRSUPINT', 0.8817116658) found in 937898ms
+selecting feature  7
+('HESCM4', 0.8817116658) found in 1007574ms
+selecting feature  8
+('HESCF4', 0.8817116658) found in 801578ms
+selecting feature  9
+('HESC4', 0.8817116658) found in 800661ms
+selecting feature  10
+('HESC3A', 0.8817116658) found in 796744ms
+selecting feature  11
+('HESCM3', 0.8817116658) found in 1016996ms
+selecting feature  12
+('HESCF3', 0.8817116658) found in 1088899ms
+selecting feature  13
+('HESC3', 0.8817116658) found in 882878ms
+selecting feature  14
+('HESC2', 0.8817116658) found in 799848ms
+selecting feature  15
+('HESC1', 0.8817116658) found in 801102ms
+selecting feature  16
+('HETSP9', 0.8817116658) found in 804743ms
+selecting feature  17
+('HETSP3O', 0.8817116658) found in 805579ms
+selecting feature  18
+('HETSP2D', 0.8817116658) found in 806026ms
+selecting feature  19
+('HES9', 0.8817116658) found in 611875ms
+selecting feature  20
+('HETS8DO', 0.8817116658) found in 605857ms
+selecting feature  21
+('HETS8CO', 0.8817116658) found in 605436ms
+selecting feature  22
+('HES8B', 0.8817116658) found in 610054ms
+selecting feature  23
+('HETS8OU', 0.8817116658) found in 603543ms
+selecting feature  24
+('HETS8O', 0.8817116658) found in 612023ms
+selecting feature  25
+('HETS7O', 0.8817116658) found in 616787ms
+selecting feature  26
+('HETS6O', 0.8817116658) found in 612738ms
+selecting feature  27
+('HETS5O', 0.8817116658) found in 608285ms
+selecting feature  28
+('HETS4O', 0.8817116658) found in 612167ms
+selecting feature  29
+('HETS3O', 0.8817116658) found in 611381ms
+selecting feature  30
+('HETS2O', 0.8817116658) found in 608572ms
+selecting feature  31
+('HES1D', 0.8817116658) found in 605626ms
+selecting feature  32
+('HES1C', 0.8817116658) found in 608454ms
+selecting feature  33
+('HES1B', 0.8817116658) found in 610883ms
+selecting feature  34
+('HES1A', 0.8817116658) found in 608311ms
+selecting feature  35
+('PWSUPWGT', 0.8817116658) found in 607102ms
+selecting feature  36
+('HHSUPWGT', 0.8817116658) found in 579687ms
+selecting feature  37
+('PRINUYER', 0.8817116658) found in 582515ms
+selecting feature  38
+('HWHHWTLN', 0.8817116658) found in 585119ms
+selecting feature  39
+('PRDASIAN', 0.8817116658) found in 580241ms
+selecting feature  40
+('PTIO2OCD', 0.8817116658) found in 579666ms
+selecting feature  41
+('PTIO1OCD', 0.8817116658) found in 580750ms
+selecting feature  42
+('PEMNTVTY', 0.8817116658) found in 582029ms
+selecting feature  43
+('PEFNTVTY', 0.8817116658) found in 581370ms
+selecting feature  44
+('PENATVTY', 0.8817116658) found in 589433ms
+selecting feature  45
+('PEIO2ICD', 0.8817116658) found in 586661ms
+selecting feature  46
+('PEIO1ICD', 0.8817116658) found in 586608ms
+selecting feature  47
+('PTDTRACE', 0.8817116658) found in 583608ms
+selecting feature  48
+('HEFAMINC', 0.8817116658) found in 582993ms
+selecting feature  49
+('HUTYPEA', 0.8817116658) found in 586910ms
+selecting feature  50
+('PRDISFLG', 0.8817116658) found in 590962ms
+selecting feature  51
+('PEDISOUT', 0.8817116658) found in 571750ms
+selecting feature  52
+('PEDISDRS', 0.8817116658) found in 571285ms
+selecting feature  53
+('PEDISPHY', 0.8817116658) found in 577893ms
+selecting feature  54
+('PEDISREM', 0.8817116658) found in 578547ms
+selecting feature  55
+('PEDISEYE', 0.8817116658) found in 568255ms
+selecting feature  56
+('PEDISEAR', 0.8817116658) found in 569481ms
+selecting feature  57
+('PECOHAB', 0.8817116658) found in 569532ms
+selecting feature  58
+('PEMOMTYP', 0.8817116658) found in 573964ms
+selecting feature  59
+('PELNDAD', 0.8817116658) found in 566310ms
+selecting feature  60
+('PELNMOM', 0.8817116658) found in 568335ms
+selecting feature  61
+('PEDADTYP', 0.8817116658) found in 572331ms
+selecting feature  62
+('PEAFWHN4', 0.8817116658) found in 570432ms
+selecting feature  63
+('PEAFWHN3', 0.8817116658) found in 567737ms
+selecting feature  64
+('PEAFWHN2', 0.8817116658) found in 570764ms
+selecting feature  65
+('PEAFWHN1', 0.8817116658) found in 572395ms
+selecting feature  66
+('PEAFEVER', 0.8817116658) found in 575131ms
+selecting feature  67
+('HUFINAL', 0.8817116658) found in 573321ms
+selecting feature  68
+('PRDTHSP', 0.8817116658) found in 572612ms
+selecting feature  69
+('GTCBSASZ', 0.8817116658) found in 572903ms
+selecting feature  70
+('GTINDVPC', 0.8817116658) found in 574874ms
+selecting feature  71
+('GTMETSTA', 0.8817116658) found in 591839ms
